@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">Skybird_Student_app</string>
+    <string name="app_name">Skybird Student Application</string>
+
+    <string name="welcome">Welcome &lt;name&gt; to Skybird Student</string>
+    <string name="timetable">Timetable</string>
+    <string name="schedule">Schedule</string>
+    <string name="booklet">Booklet</string>
+    <string name="test_solutions">Test Solutions</string>
+    <string name="video_links">Video Links</string>
+    <string name="weekly_marks">Weekly Marks</string>
+    <string name="pt">PT1/PT2</string>
+    <string name="university_link">University Link</string>
 </resources>
